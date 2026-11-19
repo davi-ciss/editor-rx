@@ -2,6 +2,10 @@
 
 A versão mais nova fica em cima. O número diz o tipo de mudança: o 1º muda em mudança grande, o 2º quando entra coisa nova e o 3º em correção.
 
+## 2.5.1 — 19/11/2026
+Correções
+- Primeira versão entregue pela atualização automática: quem estava na 2.5.0 recebeu sozinho. Nada muda no uso.
+
 ## 2.5.0 — 19/11/2026
 Novidades
 - O Editor RX se instala sozinho ao abrir, sem perguntas e sem administrador.
