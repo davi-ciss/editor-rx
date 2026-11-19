@@ -43,7 +43,7 @@ Para tirar: `& "$env:LOCALAPPDATA\Programs\Editor RX\Editor RX.exe" --tirar-mcp`
 
 ## Como funciona
 - A senha do banco fica criptografada no seu usuário do Windows. O MCP usa o perfil e nunca recebe a senha. Por isso o perfil é criado no app aberto pelo Explorer, não pelo Claude.
-- A conexão do editor é só leitura.
+- A conexão do editor é só leitura. A única gravação é o Importar no banco, que primeiro mostra o que muda e só grava depois do seu OK.
 - Com o Editor RX aberto, o Claude usa essa mesma janela e vê o que está na tela, inclusive o que ainda não foi salvo. Aparece "IA" no topo enquanto ele estiver ligado.
 - Sem o Editor RX aberto, o Claude abre um separado, só com o ícone na bandeja, quando usa a primeira ferramenta. Ele fecha junto com a sessão.
 - O Editor RX se atualiza sozinho e o registro do MCP continua valendo. Depois de uma atualização, abra uma sessão nova do Claude Code para pegar as ferramentas novas.

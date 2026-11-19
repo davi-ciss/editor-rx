@@ -2,6 +2,13 @@
 
 A versão mais nova fica em cima. O número diz o tipo de mudança: o 1º muda em mudança grande, o 2º quando entra coisa nova e o 3º em correção.
 
+## 2.6.0 — 19/11/2026
+Novidades
+- Ferramentas › Importar no banco: grava o relatório aberto direto no banco conectado, sem salvar o .REX nem importar pelo CISSPoder.
+- Faz o mesmo que o "Importar relatório" do CISSPoder: relatório, pasta, subpasta, filtros e vínculos.
+- Antes de gravar mostra o banco, o relatório e o que muda. Grava tudo de uma vez: se der erro, nada fica no banco.
+- A versão do relatório sobe como no Salvar.
+
 ## 2.5.1 — 19/11/2026
 Correções
 - Primeira versão entregue pela atualização automática: quem estava na 2.5.0 recebeu sozinho. Nada muda no uso.
