@@ -15,4 +15,8 @@ Precisa de chave de ativação por computador.
 
 Na primeira vez, o Windows pode mostrar "O Windows protegeu o computador". Clique em "Mais informações" › "Executar assim mesmo".
 
-O que mudou em cada versão: [Novidades](Novidades.md).
+## Uso com IA
+O Editor RX também é o MCP do Claude Code: a IA cria, ajusta e confere relatórios pelo editor. Como configurar: [Configurar para uso com IA](Configurar%20para%20uso%20com%20IA.md).
+
+## Novidades
+O que mudou em cada versão: [Novidades](Novidades.md). No app, fica no botão ? do topo.
